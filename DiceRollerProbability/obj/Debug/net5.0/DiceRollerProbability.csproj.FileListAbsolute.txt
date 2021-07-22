@@ -1,0 +1,16 @@
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\DiceRollerProbability.exe
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\DiceRollerProbability.deps.json
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\DiceRollerProbability.runtimeconfig.json
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\DiceRollerProbability.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\DiceRollerProbability.dll
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\ref\DiceRollerProbability.dll
+C:\Users\Desktop\source\repos\DiceRollerProbability\bin\Debug\net5.0\DiceRollerProbability.pdb
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.dll
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\ref\DiceRollerProbability.dll
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.pdb
+C:\Users\Desktop\source\repos\DiceRollerProbability\obj\Debug\net5.0\DiceRollerProbability.genruntimeconfig.cache
